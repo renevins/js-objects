@@ -19,6 +19,7 @@ On separate lines (one statement for each), display the recipe information so it
 ---
 
 # Famous Penguins
+Watching this [video](https://www.youtube.com/watch?v=bNdFQc-AlEQ&list=PLG6ePePp5vvZrPZCp85dssGxQ7QLfujt7&index=13) first would be very helpful.  Pay attention to how he does Method.
 Pick a penguin from Wikipedia's [List of Fictional Penguins](https://en.wikipedia.org/wiki/List_of_fictional_penguins) and:
 * create an object named `myPenguin` with properties that represent the information listed in each column on that Wikipedia page (for example: the character's name, origin, and author).
 * Use `console.log()` to print the penguin's name to the console as part of a welcome message, like "Hello, I'm a penguin and my name is [NAME HERE]!"
